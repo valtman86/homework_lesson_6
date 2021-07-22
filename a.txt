@@ -1,2 +1,4 @@
 this is first line in file a
 new row
+add new row
+add another row
